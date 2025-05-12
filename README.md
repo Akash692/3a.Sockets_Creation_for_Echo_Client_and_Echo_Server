@@ -53,7 +53,8 @@ CLIENT:
 
 SERVER:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/73a1d009-3876-45f4-b125-80c88f8440b8)
+
 
 
 ## RESULT
